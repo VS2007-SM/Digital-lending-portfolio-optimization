@@ -227,8 +227,8 @@ Certificate of Participation awarded to the project team.
 
 ## 🤝 Connect
 
-**Vivek** · [LinkedIn](#) · [GitHub](#)  
-**Ishank Sachan** · [LinkedIn](#)  
+**Vivek** · [LinkedIn](www.linkedin.com/in/vivek-shende-259b96380) · [GitHub](https://github.com/VS2007-SM) · [Repo](https://github.com/VS2007-SM/Digital-lending-portfolio-optimization)   
+**Ishank Sachan** · [LinkedIn](https://www.linkedin.com/in/ishank-sachan-a50119379)  
 **Rahul Ahirwar** · [LinkedIn](#)
 
 ---
