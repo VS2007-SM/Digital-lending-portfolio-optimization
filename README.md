@@ -24,7 +24,7 @@ This project was developed under the **Consulting & Analytics Club, IIT Guwahati
 **Problem Statement:**
 > How can a digital lending institution leverage end-to-end customer and transaction data to strengthen credit risk assessment, enable early detection of delinquencies, optimise pricing and product strategies, and drive sustainable, risk-adjusted portfolio growth?
 
-**Team:** Rahul · Ishank Sachan · Rahul Ahirwar  
+**Team:** Vivek Shende· Ishank Sachan · Rahul Ahirwar  
 **Organisation:** Consulting & Analytics Club, IIT Guwahati  
 **Date:** June 2026
 
